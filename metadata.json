@@ -1,0 +1,6 @@
+{
+  "name": "Family Feud TV Game Show",
+  "description": "Interactive Family Feud style TV game show application for events, projection, and live hosts. Includes TV board, host control panel, sound FX, persistent strike marks, error point deductions, multipliers, and Fast Money round.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
